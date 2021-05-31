@@ -1,7 +1,9 @@
 # Estimate pi 
+
 ## Using the Wallis formula
+
 ### Background
-# Just a trial sentence
+
 The [Wallis Formula](https://en.wikipedia.org/wiki/Wallis_product) can be
 used to approximate the value of the constant 𝛑. 
 The formula is like so 
